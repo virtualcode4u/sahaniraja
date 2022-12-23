@@ -1,6 +1,6 @@
 A passionate software developer who writes stuff with PHP, Laravel, React, React Native, Vue, Wordpress, Bootstrap, Nodejs, Python and more...
 
-🔭   I’m currently working at Progen Erp Pvt Ltd.
+🔭   I’m currently working at BDO India's Technology Solutions Pvt. Ltd (BITS).
 
 ✎   I’m currently working with PHP, Laravel, Javascript, React, Redux, Next JS, Wordpress, Gutenberg Block, Typescript, React Native, Vue JS, Node JS and Python
 
