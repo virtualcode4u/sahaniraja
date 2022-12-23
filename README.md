@@ -12,7 +12,7 @@ A passionate software developer who writes stuff with PHP, Laravel, React, React
 
 💬  Ask me anything about PHP, JavaScript, Laravel, React, TypeScript, WordPress, Next JS, Bootstrap, Tailwind, MySQL
 
-📫  How to reach me rajasahani89789@gmail.com [Preferrable]
+📫  How to reach me rajasahani14@gmail.com [Preferrable]
 
 📫  Urgent Contact +91 9987641136 [Not Preferrable in Normal Case]
 
